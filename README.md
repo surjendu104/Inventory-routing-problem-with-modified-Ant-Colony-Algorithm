@@ -11,7 +11,7 @@ This is implepentation of this [Research Paper](https://drive.google.com/file/d/
 
 ### Output
 Output will be store in `output.txt` and plotting result will be shown in  `output.png`  
-The plot is of `Number of Iteration` vs `Minimum Distance`
+The plot is of `Number of Iteration` vs `Minimum Distance`  
 Here's one sample Plot Result 
 
   
